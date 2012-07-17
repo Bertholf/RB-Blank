@@ -1,0 +1,4 @@
+RB-Blank
+========
+
+Blank plugin
