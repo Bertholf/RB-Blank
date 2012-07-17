@@ -1,5 +1,4 @@
-RB-Blank
-========
+=== Plugin Name ===
 Contributors: bertholf
 Donate link: http://rbplugin.com/
 Tags: BLANK
